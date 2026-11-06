@@ -1,0 +1,31 @@
+# Unity-generated data (case insensitive folder names).
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated files.
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.opendb
+/*.VC.db
+
+# OS files.
+.DS_Store
+Thumbs.db
+
+# Assets, Packages, ProjectSettings, and .meta files are intentionally tracked.
